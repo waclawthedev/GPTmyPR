@@ -1,0 +1,2 @@
+# GPTmyPR
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8abe19470e1847cb9f334c0ddcbd48b2)](https://app.codacy.com/gh/waclawthedev/GPTmyPR?utm_source=github.com&utm_medium=referral&utm_content=waclawthedev/GPTmyPR&utm_campaign=Badge_Grade)
