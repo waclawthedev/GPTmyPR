@@ -1,2 +1,9 @@
-venv
-.idea
+build/
+dist/
+node_modules/
+gptmypr.egg-info/
+venv/
+.idea/
+.DS_Store
+package-lock.json
+package.json
